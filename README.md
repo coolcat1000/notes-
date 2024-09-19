@@ -1,2 +1,28 @@
-# notes-
-be strong little dog 
+Number row Characters 
+
+* !
+
+* @
+
+* \#
+
+* $
+
+* %
+
+* ^
+
+* &
+
+* \*
+
+* (
+
+* )
+
+[GitHub notes](https://pages.github.com/) 
+
+Exeriments
+
+
+
